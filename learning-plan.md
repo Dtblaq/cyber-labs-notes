@@ -6,7 +6,7 @@
 - Tools: Just browser + TryHackMe account for now
 
 ## 30-Day Goals
-- Complete 4–6 free TryHackMe rooms  
+- Complete 4–7 free TryHackMe rooms  
 - Write detailed notes + screenshots for each in this repo  
 - Understand basic concepts: Blue team vs Red team, SOC tiers, common attacks  
 - Start installing VirtualBox/VMware for future labs (if needed)
